@@ -1,16 +1,42 @@
-# video_player_app
+# Video Player App
 
-A new Flutter project.
+This project is a simple Flutter application that demonstrates the use of the `video_player` and `appinio_video_player` packages to play videos from both network sources and local assets.
+
+## Features
+
+- Play video from a network source.
+- Play video from local assets.
+- Custom video player controller for enhanced video player functionalities.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ensure you have Flutter installed on your machine. To check if Flutter is installed, run the following command in your terminal:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter doctor
+
+Installation
+1. Clone the repository to your local machine:
+ git clone https://github.com/RaghavBaheti90/Video_Player_App
+
+2. Navigate to the project directory:
+ cd video_player_app
+
+3. Install the required dependencies:
+ flutter pub get
+
+4. Run the app on your connected device or emulator:
+ flutter run
+
+Contributing
+Contributions are welcome! If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+
+Don't forget to give the project a star! Thanks again!
+
+License
+Distributed under the MIT License. See LICENSE for more information.
+```

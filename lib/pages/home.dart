@@ -18,7 +18,7 @@ class _Home_screenState extends State<Home_screen> {
 
   Uri videoUri = Uri.parse(
       "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4");
-  String assetVideoPath = "assets/RickRoll.mp4";
+  String assetVideoPath = "assets/sem.mp4";
 
   late bool isLoading = true;
 
